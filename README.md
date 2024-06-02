@@ -1,8 +1,6 @@
-
 # WhatsApp Clone (MERN Stack)
 
-![WhatsApp Clone](![image](https://github.com/yash-agrawal03/WhatsApp-Clone/assets/77984203/7983977e-8524-4b56-bdfa-aaf3f474a440)
-)
+![WhatsApp Clone](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fwhatsapp-logo-website-social-icon-6279868%2F&psig=AOvVaw0NdTspgQ97eVsFRvZmvtqa&ust=1717427294546000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDsurGZvYYDFQAAAAAdAAAAABAT)
 
 This is a WhatsApp clone built using the MERN stack and socket.io. It provides a similar user interface and functionality to the popular communication platform WhatsApp.
 
@@ -76,5 +74,3 @@ This is a WhatsApp clone built using the MERN stack and socket.io. It provides a
 If you liked the project, give it a star! 😊
 
 ---
-
-```
